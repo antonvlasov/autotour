@@ -1,6 +1,6 @@
 # Автотур тройной!
 ### [Ссылка на карту маршрута](https://www.google.com/maps/d/edit?mid=1N_QEUpPh2AUg0DyWfs4Ybqf54w3DLqo&usp=sharing)
-![карта](assets/image-24.png)
+![карта](assets/image-28.png)
 
 #### День 1 19.08
 10:00 Выезд из Москвы
